@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>ЭКСПРЕСС УБОРКА ЛЕГКО И БЫСТРО</title>
+    <title>БЫСТРАЯ УБОРКА</title>
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,8 +10,8 @@
     <meta name="format-detection" content="telephone=no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="author" content="TemplatesJungle">
-    <meta name="keywords" content="magazine, blog, lifestyle">
-    <meta name="description" content="HTML Template for Magazine and LifeStyle Bloggers">
+    <meta name="keywords" content="журнал, блог, образ жизни">
+    <meta name="description" content="Шаблон HTML для журнала и блога о образе жизни">
 
     <link rel="stylesheet" type="text/css" href="css/normalize.css">
     <link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
@@ -36,14 +36,14 @@
                         <div class="top-left">
                             <div class="main-logo">
                                 <a href="#">
-                                    <img src="images/img_logo/stork_logo_02.png" alt="Stork Logo">
+                                    <img src="images/img_logo/stork_logo_02.png" alt="Логотип Stork">
                                     {{-- <img src="images/mainlogo.png" alt="logo"> --}}
                                 </a>
                             </div><!--main-logo-->
                             <div class="social-links">
                                 <ul>
                                     <!-- WhatsApp -->
-                                    <a href="#" target="_blank" title="WhatsApp Ekle">
+                                    <a href="#" target="_blank" title="Добавить WhatsApp">
                                         <i class="fab fa-whatsapp"></i>
                                     </a>
 
@@ -56,7 +56,7 @@
                                     <a href="#" target="_blank">
                                         <i class="fab fa-vk"></i>
                                     </a>
-                                    <!-- instagram -->
+                                    <!-- Instagram -->
                                     <li>
                                         <a href="#"><i class="icon icon-instagram"></i>
                                         </a>
@@ -72,7 +72,7 @@
                                         <a href="index.html" class="nav-link" data-hover="ГЛАВНАЯ">ГЛАВНАЯ</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#about-page" class="nav-link" data-hover="О НАC">О НАC</a>
+                                        <a href="#about-page" class="nav-link" data-hover="О НАС">О НАС</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="#popular-stories" class="nav-link" data-hover="КОНТАКТЫ">КОНТАКТЫ</a>
