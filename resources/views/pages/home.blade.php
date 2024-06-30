@@ -5,38 +5,38 @@
 			<div class="row">
 				<div class="summary-content">
 						<div class="summary-item">
-							<a href="#"><img src="images/summary1.jpg" alt="post"></a>
+							<a href="#"><img src="images/sub_main_photos/sub_main_photo_06.jpg" alt="post"></a>
 							<div class="summar-title">
 								<span class="number">1</span>
-								<a href="#" class="title">5 Helpful Tips for Growing Healthy Succulents</a>
+								<a href="#" class="title">5 советов для эффективной уборки с нашими швабрами.</a>
 							</div>
 						</div><!--summary-item-->
 						<div class="summary-item">
-							<a href="#"><img src="images/summary2.jpg" alt="post"></a>
+							<a href="#"><img src="images/sub_main_photos/sub_main_photo_02.jpg" alt="post"></a>
 							<div class="summar-title">
 								<span class="number">2</span>
-								<a href="#" class="title">5 Helpful Tips for Growing Healthy Succulents</a>
+								<a href="#" class="title">5 советов для эффективной уборки с нашими швабрами.</a>
 							</div>
 						</div><!--summary-item-->
 						<div class="summary-item">
-							<a href="#"><img src="images/summary3.jpg" alt="post"></a>
+							<a href="#"><img src="images/sub_main_photos/sub_main_photo_03.jpg" alt="post"></a>
 							<div class="summar-title">
 								<span class="number">3</span>
-								<a href="#" class="title">5 Helpful Tips for Growing Healthy Succulents</a>
+								<a href="#" class="title">5 советов для эффективной уборки с нашими швабрами.</a>
 							</div>
 						</div><!--summary-item-->
 						<div class="summary-item">
-							<a href="#"><img src="images/summary2.jpg" alt="post"></a>
+							<a href="#"><img src="images/sub_main_photos/sub_main_photo_04.jpg" alt="post"></a>
 							<div class="summar-title">
 								<span class="number">4</span>
-								<a href="#" class="title">5 Helpful Tips for Growing Healthy Succulents</a>
+								<a href="#" class="title">5 советов для эффективной уборки с нашими швабрами.</a>
 							</div>
 						</div><!--summary-item-->
 						<div class="summary-item">
-							<a href="#"><img src="images/summary1.jpg" alt="post"></a>
+							<a href="#"><img src="images/sub_main_photos/sub_main_photo_05.jpg" alt="post"></a>
 							<div class="summar-title">
 								<span class="number">5</span>
-								<a href="#" class="title">5 Helpful Tips for Growing Healthy Succulents</a>
+								<a href="#" class="title">5 советов для эффективной уборки с нашими швабрами.</a>
 							</div>
 						</div><!--summary-item-->
 				</div><!--summary-content-->
@@ -49,13 +49,13 @@
 			<div class="abp-post-wrap">
 				<div class="row">
 					<figure>
-						<img src="images/largeimg.jpg" alt="post">
+						<img src="images/main_photos/main_phot_02.webp" alt="post">
 					</figure>
 					<div class="abp-post-content">
-							<h3>Get Rid of  Your Backpain with these 3 Simple Exercises</h3>
-							<p>Let’s Discover more about yournext destination</p>
+							<h3>Прошло 2 месяца?</h3>
+							<p>Советуем заменить насадку из микрофибры</p>
 							<div class="btn-wrap">
-								<a href="#" class="btn-accent btn-pill">Read Full Story</a>
+								<a href="#" class="btn-accent btn-pill">Перейти</a>
 							</div>
 					</div><!--abp-post-content-->
 				</div>
@@ -315,4 +315,7 @@
 	</section>
 
 @endsection()
+
+
+
 

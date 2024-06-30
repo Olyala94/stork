@@ -70,7 +70,7 @@ ol li {
 }
 
 ul li.active a {
-  color: #daa556;
+  color: #33F8FF;
 }
 
 ul li:last-child,
@@ -336,16 +336,16 @@ This is main CSS file that contains custom style rules used in this template
 }
 
 .btn-accent:hover {
-  background-color: #e9663c;
+  background-color: #33ECFF;
 }
 
 .btn-orange {
-  background-color: #e9663c;
+  background-color: #33ECFF;
   color: #fff;
 }
 
 .btn-orange:hover {
-  background-color: #c56a4d;
+  background-color: #33ECFF;
   color: #fff;
 }
 
@@ -454,7 +454,7 @@ h3.section-title {
 }
 
 .layer-vertical-text.colored {
-  color: #f35656;
+  color: #33ECFF;
 }
 
 .layer-vertical-text.left-align {
@@ -517,7 +517,7 @@ header#header {
 }
 
 .social-links a:hover {
-  color: #f45330;
+  color: #33D4FF;
 }
 
 @media (max-width: 1200px) {
@@ -639,7 +639,7 @@ header#header {
   bottom: 100%;
   left: 0;
   content: attr(data-hover);
-  color: #dc4b4b;
+  color: #33ECFF;
   white-space: nowrap;
 }
 
@@ -669,7 +669,7 @@ header#header {
 .summary-content .summar-title span.number {
   font-size: 3.5em;
   line-height: 1;
-  color: #f45330;
+  color: #33D4FF;
   padding-right: 15px;
 }
 
@@ -719,11 +719,14 @@ header#header {
 }
 
 #about-page .abp-post-content {
-  width: 39%;
-  padding: 125px 95px 0;
-  background-color: #f2e2dB;
-  margin-left: 15px;
+    width: 39%;
+    padding: 125px 95px 0;
+    background-color: #788995;
+    margin-left: 15px;
+    color: #fff;
 }
+
+
 
 #about-page .abp-post-content h3 {
   font-size: 3em;
@@ -828,7 +831,7 @@ form#form button {
 }
 
 form#form button:hover {
-  background: #e9663c;
+  background: #33D4FF;
 }
 
 @media (max-width: 1100px) {
@@ -998,7 +1001,7 @@ form#form button:hover {
 }
 
 .featured-post .post-list.bg-colored {
-  background: #dc4b4b;
+  background: #33D4FF;
   color: #fff;
 }
 

@@ -17,6 +17,8 @@
     <link rel="stylesheet" type="text/css" href="icomoon/icomoon.css">
     <link rel="stylesheet" type="text/css" href="fonts/fonts.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
 
     <!-- script
  ================================================== -->
@@ -34,30 +36,29 @@
                         <div class="top-left">
                             <div class="main-logo">
                                 <a href="#">
-                                    <img src="images/mainlogo.png" alt="logo">
+                                    <img src="images/img_logo/stork_logo_02.png" alt="Stork Logo">
+                                    {{-- <img src="images/mainlogo.png" alt="logo"> --}}
                                 </a>
                             </div><!--main-logo-->
                             <div class="social-links">
                                 <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="icon icon-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icon icon-skype"></i>
-                                        </a>
-                                    </li>
+                                    <!-- WhatsApp -->
+                                    <a href="#" target="_blank" title="WhatsApp Ekle">
+                                        <i class="fab fa-whatsapp"></i>
+                                    </a>
+
+                                    <!-- Telegram -->
+                                    <a href="#" target="_blank">
+                                        <i class="fab fa-telegram"></i>
+                                    </a>
+
+                                    <!-- VKontakte -->
+                                    <a href="#" target="_blank">
+                                        <i class="fab fa-vk"></i>
+                                    </a>
+                                    <!-- instagram -->
                                     <li>
                                         <a href="#"><i class="icon icon-instagram"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icon icon-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="icon icon-linkedin-with-circle"></i>
                                         </a>
                                     </li>
 
@@ -68,18 +69,19 @@
                             <div class="header-menu">
                                 <ul class="nav-menu nav-hvr-effect">
                                     <li class="nav-item">
-                                        <a href="index.html" class="nav-link" data-hover="Home">Home</a>
+                                        <a href="index.html" class="nav-link" data-hover="ГЛАВНАЯ">ГЛАВНАЯ</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#about-page" class="nav-link" data-hover="About">About</a>
+                                        <a href="#about-page" class="nav-link" data-hover="О НАC">О НАC</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#popular-stories" class="nav-link" data-hover="Stories">Stories</a>
+                                        <a href="#popular-stories" class="nav-link" data-hover="КОНТАКТЫ">КОНТАКТЫ</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="#feat-post" class="nav-link" data-hover="Post">Post</a>
+                                        <a href="#feat-post" class="nav-link" data-hover="КАТАЛОГ">КАТАЛОГ</a>
                                     </li>
-                                    <li class="nav-item">
+
+                                    {{-- <li class="nav-item">
                                         <a href="#health-tips" data-hover="Health" class="nav-link">Health</a>
                                     </li>
                                     <li class="nav-item">
@@ -91,7 +93,8 @@
                                     <li class="nav-item">
                                         <a href="https://templatesjungle.gumroad.com/l/lifestyle-magazine-html-template"
                                             data-hover="GET PRO" class="nav-link"> GET PRO </a>
-                                    </li>
+                                    </li> --}}
+
                                 </ul>
 
                                 <div class="hamburger">
